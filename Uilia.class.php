@@ -1,9 +1,8 @@
 <?php
-
 /**
  * Uilia.class [ API ]
  * Classe de coneção REST com a plataforma UILIA
- * @copyright (c) 2018, William alvares - UILIA
+ * @copyright (c) 2018, William Alvares - UILIA
  */
 class uiliaAPI {
 
